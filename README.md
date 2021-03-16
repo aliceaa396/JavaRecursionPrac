@@ -11,7 +11,9 @@ Completeing recursion Practice Problems
 7.SUM of Ints
 8.Counting 5s
 9.Binary Search Tree
-10.FizzBuzz should print Fizz when a number is divisible by 3, should print Buzz when a number is divisible by 5 and should print FizzBuzz when a number is divisible by both 3 and 5
+10.FizzBuzz should print Fizz when a number is divisible by 3, 
+should print Buzz when a number is divisible by 5 and 
+should print FizzBuzz when a number is divisible by both 3 and 5
 11.Stack challenge, Implement the Stack data structure
 
 ```
