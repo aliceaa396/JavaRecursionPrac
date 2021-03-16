@@ -1,4 +1,4 @@
-# JavaRecursionPractice 
+# JavaChallenges 
 
 ```bash
 Completeing recursion Practice Problems
