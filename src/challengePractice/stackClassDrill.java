@@ -1,4 +1,4 @@
-package recursionPractice;
+package challengePractice;
 
  class Stack {
     //Stack challenge, Implement the Stack data structure

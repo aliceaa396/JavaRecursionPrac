@@ -1,4 +1,4 @@
-package recursionPractice;
+package challengePractice;
 
 public class mainTwo {
     public static void main(String[] args) {
